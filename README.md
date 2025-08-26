@@ -41,18 +41,16 @@
 ---
 
 ### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshubit&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Priyanshubit&theme=monokai&no-frame=true&margin-w=10&cache_seconds=86400)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📊 GitHub Stats
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshubit&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshubit&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshubit&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshubit&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
 ### 🔥 GitHub Streak
-
-![GitHub streak](https://streak-stats.demolab.com?user=Priyanshubit&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshubit&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=FF4500&currStreakLabel=FF4500&cache_seconds=86400)
