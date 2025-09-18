@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Data Analytics and Data Science Projects**
 - 🌱 I’m currently learning **Data Modelling, Pipelining, and SQL Optimization**
-- 💡 My key projects include **YUMMIt – a Swiggy-like food delivery app** and **Data Analytics Dashboards**
+- 💡 My key projects include **Fraud Detection Model** and **Air Bnb Analysis**
 - 👯 I’m looking to collaborate on **Data Analytics, Dashboards, and Python**
 - 📄 Know more about my work: [My Portfolio](https://priyanshubit.github.io/Priyanshu-Portfolio/)
 
