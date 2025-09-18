@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Priyanshu Bagri</h1>
-<h3 align="center">Web Developer | Power BI Analyst | Data Analyst </h3>
+<h3 align="center">Data Modelling | Power BI Analyst | Data Analyst </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Priyanshubit&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshubit" />
@@ -9,11 +9,10 @@
 
 ---
 
-- 🔭 I’m currently working on **Power BI Dashboards and Full Stack Java Projects**
-- 🌱 I’m currently learning **DAX, React.js, and SQL Optimization**
+- 🔭 I’m currently working on **Data Analytics and Data Science Projects**
+- 🌱 I’m currently learning **Data Modelling, Pipelining, and SQL Optimization**
 - 💡 My key projects include **YUMMIt – a Swiggy-like food delivery app** and **Data Analytics Dashboards**
-- 👯 I’m looking to collaborate on **Data Analytics, Dashboards, and MERN stack projects**
-- 💬 Ask me about **Power BI, Node.js, Java, React, Git**
+- 👯 I’m looking to collaborate on **Data Analytics, Dashboards, and Python**
 - 📄 Know more about my work: [My Portfolio](https://priyanshubit.github.io/Priyanshu-Portfolio/)
 
 ---
